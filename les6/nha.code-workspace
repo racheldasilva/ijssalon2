@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "ijssalon",
+			"path": "../ijssalon"
+		}
+	],
+	"settings": {}
+}{
+    "python.pythonPath": "/usr/local/bin/python3"
+}
+
